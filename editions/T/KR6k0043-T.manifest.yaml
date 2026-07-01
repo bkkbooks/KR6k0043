@@ -1,0 +1,322 @@
+canonical_identifier: bkk:krp/KR6k0043/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0043/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 善見律毘婆沙
+  identifiers:
+    krp: KR6k0043
+    cbeta: T24n1462
+    cbeta_old_id: T24n1462
+    authorityid: CA0002906
+    json_key: T1462
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1462.xml
+    old_id: T24n1462
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0043_000-T.yaml, hash: 'sha256:f92a458e0b997582c5da2491fc6e1337a8afbfa39eb84fef332937234ea2af2d'}
+  - {seq: 1, filename: KR6k0043_001-T.yaml, hash: 'sha256:6f6c99bb51751b7dabac125e5ebf1f184545ea25b02275b43af46f3ca5a5db59'}
+  - {seq: 2, filename: KR6k0043_002-T.yaml, hash: 'sha256:b7042cc39b4e4a519fb2b573d0368da02c406b2ce0b61aa8b8b9b83705209e6a'}
+  - {seq: 3, filename: KR6k0043_003-T.yaml, hash: 'sha256:5024656b2df359d4d0e4a1275e7a9d638e6a9df6549836cefe3bb3081ade966c'}
+  - {seq: 4, filename: KR6k0043_004-T.yaml, hash: 'sha256:72e195aaea14f70315fa9496fc0f6ce1e41131e5fe976d91a8f7f0cf545d4e2d'}
+  - {seq: 5, filename: KR6k0043_005-T.yaml, hash: 'sha256:2b58b968988c204141d61f00921877d788c2acd27dce7b8be129a9bcd5af9cfc'}
+  - {seq: 6, filename: KR6k0043_006-T.yaml, hash: 'sha256:d4674681ab636c6859375413d1410083945e2c4dad230c3facd4afae9d702292'}
+  - {seq: 7, filename: KR6k0043_007-T.yaml, hash: 'sha256:fd66cab84af78620cce9f29f68e1daf9430e2a7c3f95e3321205ce89b86e0adc'}
+  - {seq: 8, filename: KR6k0043_008-T.yaml, hash: 'sha256:be176113692296b8f84be3f3db0d54325897b351112fc5227189cd3cdb944179'}
+  - {seq: 9, filename: KR6k0043_009-T.yaml, hash: 'sha256:4d1a12df791a687f320811512e145f140bd02d51e884d769642a611f17a12850'}
+  - {seq: 10, filename: KR6k0043_010-T.yaml, hash: 'sha256:35925faae8f1542d37536813e7e89240b7c4434e87983a8e8845a2b3dc2cb83d'}
+  - {seq: 11, filename: KR6k0043_011-T.yaml, hash: 'sha256:bd75822587e1ad9ae493cccf63f27f40e182266dcfaef5ad5c19339235bb3a51'}
+  - {seq: 12, filename: KR6k0043_012-T.yaml, hash: 'sha256:3ae24e128d602d6419ce832176287b2662c101adedb7de37b98e53b77e8386c0'}
+  - {seq: 13, filename: KR6k0043_013-T.yaml, hash: 'sha256:4e6880d2151b6d202031e08a5f414407dda87731e8b5ce3f68f73597c5cba8af'}
+  - {seq: 14, filename: KR6k0043_014-T.yaml, hash: 'sha256:d8b736f2bcfcf44e332b1cc1e8106a09c4db575c0929fc36149110ade66b9bf5'}
+  - {seq: 15, filename: KR6k0043_015-T.yaml, hash: 'sha256:5148f8569be4139594bd8aa73731a53a89d182396b556884d0b037410cc121c7'}
+  - {seq: 16, filename: KR6k0043_016-T.yaml, hash: 'sha256:bd099acdadb24205719e3b4c09ed16255a5cfdcdc7a8d6aec1564ba0d7d828d7'}
+  - {seq: 17, filename: KR6k0043_017-T.yaml, hash: 'sha256:a793aa60beeced8358985d6b24c3fbe09579ee2a3d1740d471b9b1a992853647'}
+  - {seq: 18, filename: KR6k0043_018-T.yaml, hash: 'sha256:5cf3e48621c25cbd5d6e3ce3a3a6464fac142f7ba29d002c86ed8e2c39f5cf3f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0043_000-T.markers.yaml, hash: 'sha256:726904e8179a143b9caa46749bb02e4bee0133ea559c23e27080223407a264d3'}
+  - {seq: 1, role: markers, filename: assets/KR6k0043_001-T.markers.yaml, hash: 'sha256:eec9533c1ca6a5215f0cfa5f5a8e1adabe69721c9fa797bbf812ca51d3946f2b'}
+  - {seq: 2, role: markers, filename: assets/KR6k0043_002-T.markers.yaml, hash: 'sha256:dd28d6a34e3696e61a34b5119e119e804cd56827fdebe684415fbc053303acb6'}
+  - {seq: 3, role: markers, filename: assets/KR6k0043_003-T.markers.yaml, hash: 'sha256:e1e97a55fb02531077d1071bd26862ce0fc8500c76662b215e1329f92928cf69'}
+  - {seq: 4, role: markers, filename: assets/KR6k0043_004-T.markers.yaml, hash: 'sha256:9f363a9f50545fd8d8d4691ef3966f9ed2a35538958deb3afa8839e17df2802e'}
+  - {seq: 5, role: markers, filename: assets/KR6k0043_005-T.markers.yaml, hash: 'sha256:0be77e6677902f50279c0d9b659c60f91764a75b9165a9eae546e2b486154bc8'}
+  - {seq: 6, role: markers, filename: assets/KR6k0043_006-T.markers.yaml, hash: 'sha256:983ce165b03544ef5d7cf7360b7d3af43e27a4a11eaa6dfe1b2ea51aa79de79e'}
+  - {seq: 7, role: markers, filename: assets/KR6k0043_007-T.markers.yaml, hash: 'sha256:d0abae02ec2fb51baf837293bcd50b4145178621c9945f4198c07a48f879eb6a'}
+  - {seq: 8, role: markers, filename: assets/KR6k0043_008-T.markers.yaml, hash: 'sha256:94f590bba291d9d51c5998b41f510d914a1434e52f03c3b3b5b3c7d34f74d062'}
+  - {seq: 9, role: markers, filename: assets/KR6k0043_009-T.markers.yaml, hash: 'sha256:b448ebe3e61f071c0862d93659012b9d08479e0f030cf2e08fbd97d9eefa2a31'}
+  - {seq: 10, role: markers, filename: assets/KR6k0043_010-T.markers.yaml, hash: 'sha256:a8cef4caa7ec03a3003fefca6bfce5757b4815368da70987632bf03c520c1114'}
+  - {seq: 11, role: markers, filename: assets/KR6k0043_011-T.markers.yaml, hash: 'sha256:10a63a6e08d4ec858592d38b92070e422d69f65f6c82fcb395884f1ab14dafee'}
+  - {seq: 12, role: markers, filename: assets/KR6k0043_012-T.markers.yaml, hash: 'sha256:60518be1dd935b9902ad509e13a8e1c9e18cf05cdb82cefb16ea83383de8ff8c'}
+  - {seq: 13, role: markers, filename: assets/KR6k0043_013-T.markers.yaml, hash: 'sha256:d4f71223e600540d9401bf643d708fef84eec29e555ce69e7bb591edc9c96753'}
+  - {seq: 14, role: markers, filename: assets/KR6k0043_014-T.markers.yaml, hash: 'sha256:9784d2004c7808fcf243dbcde1a1558ec6eebeaa9ee7b7590179324dc0a744c3'}
+  - {seq: 15, role: markers, filename: assets/KR6k0043_015-T.markers.yaml, hash: 'sha256:83fccaead8ad7fb0148367fc5154b26829478e8d93257e7bbcc1e1e5894a2201'}
+  - {seq: 16, role: markers, filename: assets/KR6k0043_016-T.markers.yaml, hash: 'sha256:ef2eb75c79a02c789b0d61b03421497fb6bab9d10dfb8fc07bbaf72e4d9c71bc'}
+  - {seq: 17, role: markers, filename: assets/KR6k0043_017-T.markers.yaml, hash: 'sha256:414fecc6f82090d0123ffb05211f3c5c6654857409c377d513890d2d78a9b700'}
+  - {seq: 18, role: markers, filename: assets/KR6k0043_018-T.markers.yaml, hash: 'sha256:c82e6933ae1f41f1221e71a1992960b295fe9a51de38fe070ff050722a76fef0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0043_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10645
+  label: 善見律毘婆沙
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0043_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0043_T_001-mulu-2
+    span:
+    - body
+    - 5389
+    - 5389
+  label: 2 跋闍子品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0043_T_001-mulu-3
+    span:
+    - body
+    - 5968
+    - 5968
+  label: 3 阿育王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0043_T_001-mulu-4
+    span:
+    - body
+    - 5968
+    - 5968
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0043_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9428
+  label: 善見律毘婆沙卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0043_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6136
+  label: 善見律毘婆沙卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0043_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 10304
+  label: 善見律毘婆沙卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0043_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 11312
+  label: 善見律毘婆沙卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0043_T_005-mulu-1
+    span:
+    - body
+    - 6773
+    - 6773
+  label: 摩訶目揵連品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0043_T_005-mulu-2
+    span:
+    - body
+    - 7341
+    - 7341
+  label: 舍利弗品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0043_T_005-mulu-3
+    span:
+    - body
+    - 7341
+    - 7341
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0043_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 10019
+  label: 善見律毘婆沙卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0043_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 8947
+  label: 善見律毘婆沙卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0043_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 11112
+  label: 善見律毘婆沙卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0043_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 9753
+  label: 善見律毘婆沙卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0043_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 10155
+  label: 善見律毘婆沙卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0043_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 10099
+  label: 善見律毘婆沙卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0043_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 10299
+  label: 善見律毘婆沙卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0043_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 9812
+  label: 善見律毘婆沙卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0043_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 7156
+  label: 善見律毘婆沙卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0043_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 10055
+  label: 善見律毘婆沙卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0043_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 10164
+  label: 善見律毘婆沙卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0043_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 7175
+  label: 善見律毘婆沙卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6k0043_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 6284
+  label: 善見律毘婆沙卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6k0043_T_018-mulu-1
+    span:
+    - body
+    - 1922
+    - 1922
+  label: 大德舍利弗問優波離律污出品
+  type: mulu
+  level: 1
+hash: sha256:a696d0eba28183cf9c936db8b7220327979ccf32e4e06e98ec1303b37a01a163
